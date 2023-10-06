@@ -1,0 +1,5 @@
+staging/*
+PKGBUILD
+*.deb
+*.rpm
+build_state
