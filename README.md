@@ -2,6 +2,8 @@
 
 A fork of GLava made for the modern user
 
+If you need more direct help, join our [Discord](https://discord.gg/SQeWBWS8v4)
+
 ### NOTE: this code has been refactored and extended by Connor at PixelRidge Softworks. Please find all the original documentation, and such at the following link to the original Github repository:
 
 [Glava by Jarcode-FOSS Github](https://github.com/jarcode-foss/glava)
