@@ -2,6 +2,7 @@
 
 A fork of GLava made for the modern user
 
+If you'd like to support PixelRidge Softworks OpenSource Development, check out our [Patreon](https://patreon.com/PixelRidgeSoftworksOSP)
 If you need more direct help, join our [Discord](https://discord.gg/SQeWBWS8v4)
 
 ### NOTE: this code has been refactored and extended by Connor at PixelRidge Softworks. Please find all the original documentation, and such at the following link to the original Github repository:
@@ -14,7 +15,7 @@ Well, simply put, GLava has been abandoned by it's maintainer. It hasn't receive
 
 ## Well, what's different?
 
-For right now, the only difference is that the program now compiles and works properly (tested on Arch Linux) now. 
+For right now, the only difference is that the program now compiles and works properly (tested on Arch Linux) now.
 
 However, going forward, we will be taking over maintanence and updating of the GLava program. The first feature we plan to add is an easier way to make visualizers. Currently the system requires the user to build scripts and organize everything basically by themselves. We plan to make this easier for the user.
 
